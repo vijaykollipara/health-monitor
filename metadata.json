@@ -1,0 +1,6 @@
+{
+  "name": "Apothecary Health Gauge",
+  "description": "Tactile skeuomorphic nutrition journal, analog metabolic kinetic balance gauges, optical spectrometry scanner, and archival weekly health folio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
