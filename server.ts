@@ -1,5 +1,7 @@
-import express, { Request, Response } from 'express';
+import express from 'express';
+import type { Request, Response } from 'express';
 import path from 'path';
+import fs from 'fs';
 import { fileURLToPath } from 'url';
 import { createServer as createViteServer } from 'vite';
 import { GoogleGenAI } from '@google/genai';
